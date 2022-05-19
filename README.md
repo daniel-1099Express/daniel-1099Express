@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniel-1099Express
 - 👀 I’m interested in desktop/mobile apps
-- 🌱 I’m currently learning Delphi and C#
+- 🌱 I’m currently learning Delphi, React and C#
 - 💞️ I’m looking to collaborate on anything that interests me
 - 📫 How to reach me daniel@1099express.com
 
